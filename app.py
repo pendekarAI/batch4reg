@@ -22,7 +22,7 @@ def final_prediction(values, model):
 def main():
     
     # Nilai awal
-    rd = 150000.2
+    rd = 15000.2
     adm = 140000.3
     mkt = 300000.1
     
